@@ -42,3 +42,12 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&username=ga-dutra" width="47%" alt="languages graph"  />
   </div>
 </details>
+
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+</samp>
