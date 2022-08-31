@@ -4,7 +4,7 @@
 <h3> I'm a Civil Engineering student at State University of Campinas (UNICAMP) and future Software Engineer!</h3>
 <li> 👀 I’m interested in Web Development, Data-Science, Music and Literature.</li>
 <li> 🎓 Civil Engineering at UNICAMP and Software Engineering at Driven Education.
-<li> 🖥️ I’m currently learning React and Node.js.
+<li> 🖥️ I’m currently learning Node.js and MongoDB.
 <li> 📫 Don't hesitate to reach me:
   
 <div align="left">
@@ -28,6 +28,7 @@
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![ReactJS](https://img.shields.io/badge/ReactJS-323330?style=flat&logo=reactjs&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 <br />
