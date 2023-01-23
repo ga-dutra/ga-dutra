@@ -44,8 +44,8 @@
   <summary>:zap: GitHub Stats and Most Used Languages</summary>
 <br />
 <div width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&username=ga-dutra" width="45%" alt="stats graph"  />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&username=ga-dutra" width="47%" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&username=ga-dutra" width="49%" alt="stats graph"  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&username=ga-dutra" width="43%" alt="languages graph"  />
   </div>
 </details>
 
