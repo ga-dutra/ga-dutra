@@ -9,7 +9,7 @@
 <li> 📚 Currently learning Docker and AWS.
 <li> 📫 Don't hesitate to reach me: 
   
-<div align="left">
+<div align="center">
                  <br>
   <a href="ga.acdutra@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
