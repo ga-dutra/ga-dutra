@@ -1,24 +1,23 @@
-<h2 align = "center"> <div><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px"> </div> Hey, what's up?  I’m Gabriel Dutra!</h2>  
-<img align="right"  src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="500"/> 
+<h2 align = "center"> <div><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px"> </div> Hey, what's up?  I’m Gabriel Dutra!</h2>
+
+<img align="right" margin-top="100" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="500"/> 
 <br>
 <h3> I'm a Fullstack Software Engineer, Civil Engineer graduated at State University of Campinas (UNICAMP) and Technology Lover!</h3>
 <li> 👀 I’m interested in Web Development, Data-Science, Music and Literature.</li>
 <li> 🎓 Software Engineering at Driven Education and Civil Engineering at UNICAMP.
 <li> 🖥️ I'm already working with React.js, Node.js, Typescript, MongoDB and PostgreSQL.
 <li> 📚 Currently learning Docker and AWS.
-<li> 📫 Don't hesitate to reach me:
+<li> 📫 Don't hesitate to reach me: 
   
 <div align="left">
                  <br>
   <a href="ga.acdutra@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/gabriel-ac-dutra" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/dutraa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+
 </div>
 <br />
 
