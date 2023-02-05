@@ -11,7 +11,7 @@
   
 <div align="center">
                  <br>
-  <a href="ga.acdutra@gmail.com" target="_blank">
+  <a href="mailto:ga.acdutra@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/gabriel-ac-dutra" target="_blank">
