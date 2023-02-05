@@ -1,4 +1,4 @@
-<h2 align = "center"> <div><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/></div> Hey, what's up? I’m Gabriel Dutra!</h2>  
+<h2 align = "center"> <div><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px"> </div> Hey, what's up?  I’m Gabriel Dutra!</h2>  
 <img align="right";"  src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="480"/> 
 <br>
 <h3> I'm a Civil Engineer graduated at State University of Campinas (UNICAMP), Software Engineer and Technology Lover!</h3>
