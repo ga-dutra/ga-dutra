@@ -1,10 +1,11 @@
 <h2 align = "center"> <div><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px"> </div> Hey, what's up?  I’m Gabriel Dutra!</h2>  
-<img align="right";"  src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="480"/> 
+<img align="right"  src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="500"/> 
 <br>
-<h3> I'm a Civil Engineer graduated at State University of Campinas (UNICAMP), Software Engineer and Technology Lover!</h3>
+<h3> I'm a Fullstack Software Engineer, Civil Engineer graduated at State University of Campinas (UNICAMP) and Technology Lover!</h3>
 <li> 👀 I’m interested in Web Development, Data-Science, Music and Literature.</li>
-<li> 🎓 Civil Engineering at UNICAMP and Software Engineering at Driven Education.
-<li> 🖥️ I’m currently learning Node.js and MongoDB.
+<li> 🎓 Software Engineering at Driven Education and Civil Engineering at UNICAMP.
+<li> 🖥️ I'm already working with React.js, Node.js, Typescript, MongoDB and PostgreSQL.
+<li> 📚 Currently learning Docker and AWS.
 <li> 📫 Don't hesitate to reach me:
   
 <div align="left">
