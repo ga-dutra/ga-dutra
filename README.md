@@ -6,7 +6,7 @@
 <li> 👀 I’m interested in Web Development, Data-Science, Music and Literature.</li>
 <li> 🎓 Software Engineering at Driven Education and Civil Engineering at UNICAMP.
 <li> 🖥️ I'm already working with React.js, Node.js, Typescript, MongoDB and PostgreSQL.
-<li> 📚 Currently learning Docker and AWS.
+<li> 📚 Currently learning Nestjs.
 <li> 📫 Don't hesitate to reach me: 
   
 <div align="left">
